@@ -313,7 +313,7 @@ input:focus{
 .product-description{
   border:1px solid rgb(184, 184, 184);
   width:100%;
-  height:130px;
+  height:150px;
   padding:20px;
   border-top:none;
   display:flex;
